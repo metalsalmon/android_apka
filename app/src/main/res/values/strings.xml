@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name"><b>Engerau Boys</b></string>
+
+    <!-- String pre login -->
+    <string name="prihlas">Prihlás</string>
+    <string name="meno">Meno</string>
+    <string name="heslo">Heslo</string>
+    <string name="error_meno">Zadaj meno</string>
+    <string name="error_priezvisko">Zadaj priezvisko</string>
+    <string name="error_chybne_meno">Chybné meno</string>
+    <string name="chybne_heslo">Chybné heslo</string>
+    <string name="error_povinne_meno">Zadaj meno</string>
+
+
+    <!-- String pre prehlad hracov -->
+    <string name="chyba_pripojenia">Chyba pripojenia!</string>
+    <string name="hrac_neexistuje">Hráč už neexistuje</string>
+    <string name="odhlasenie">Odhlásenie</string>
+    <string name="potvrdenie_odhlasenia">Naozaj chceš odhlásiť?</string>
+    <string name="zmazanie">Zmazanie</string>
+    <string name="potvrdenie_zmazania">Naozaj chceš zmazať?</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_zrus">ZRUŠ</string>
+
+    <!-- String pre Uprav a detail hraca -->
+
+    <string name="priezvisko">Priezvisko</string>
+    <string name="error_prezyvka">Zadaj prezývku</string>
+    <string name="error_vaha">Neplatná váha</string>
+    <string name="error_vyska">Neplatná výška</string>
+    <string name="error_cislo_dresu">Neplatné číslo</string>
+    <string name="error_registracia">Zadaj dátum registrácie</string>
+    <string name="uloz">Ulož</string>
+    <string name="uprav">Uprav</string>
+    <string name="dialog_galeria">Galéria</string>
+    <string name="dialog_fotak">Fotka</string>
+
+    <string name="zaloznik">Záložník</string>
+    <string name="obranca">Obranca</string>
+    <string name="brankar">Brankár</string>
+    <string name="utocnik">Útočník</string>
+
+    <string-array name="pozicie_hracov">
+        <item>Záložník</item>
+        <item>Obranca</item>
+        <item>Útočník</item>
+        <item>Brankár</item>
+    </string-array>
+
+
+    <!-- server-->
+
+    <string name="get_hraci">http://172.16.12.88:8080/hraci/</string>
+    <string name="http_request">http://172.16.12.88:8080/hrac/</string>
+
+
+</resources>
